@@ -11,7 +11,6 @@
     <module>platform-util</module>
     <module>platform-cache</module>
   </modules>
-  
   	<properties>
 		<aspectjrt.version>1.6.9</aspectjrt.version>
 		<commons.fileupload.version>1.1.1</commons.fileupload.version>
